@@ -34,7 +34,8 @@
   <builders>
     <hudson.tasks.Shell>
       <command>echo &quot;Hello World&quot;
-echo &quot;AHHHHHHHHH!&quot;</command>
+echo &quot;AHHHHHHHHH!&quot;
+echo &quot;job configure history installed&quot;</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
